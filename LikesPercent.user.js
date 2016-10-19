@@ -7,6 +7,7 @@
 // @grant       none
 // @version     1.0.0
 // @copyright   2016+, LeMinaw
+// @updateURL   https://openuserjs.org/meta/LeMinaw/Minecraft.fr_LikesPercent.meta.js
 // ==/UserScript==
 
 'use strict';
