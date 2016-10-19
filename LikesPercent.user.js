@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Minecraft.fr LikesPercent
 // @namespace   leminaw
-// @description Ajoute le pourcentage de likes par messages des utilisateurs dans les discussions.
+// @description Ajoute le pourcentage de likes par message des utilisateurs dans les discussions.
 // @match       http://minecraft.fr/forum/*
 // @match       https://minecraft.fr/forum/*
 // @grant       none
